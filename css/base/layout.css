@@ -1,0 +1,9 @@
+.container {
+    width: 100%;
+    padding: 60px 60px;
+}
+
+.container > .row {
+    width: 1000px;
+    margin: 0 calc(50% - 500px);
+}
