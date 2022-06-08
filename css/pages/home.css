@@ -117,8 +117,9 @@
     transform: translate(50%, -50%);
 }
 
-
-
+.description {
+    margin-top: 40px;
+}
 .content .title {
     padding: 0 10px;
     font-size: 19px;
